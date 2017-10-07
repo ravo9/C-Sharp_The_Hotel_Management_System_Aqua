@@ -1,0 +1,16 @@
+﻿<Window x:Class="Hotel_Aqua_System.AddType"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel_Aqua_System"
+        mc:Ignorable="d"
+        Title="AddType" Height="262" Width="399" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="btn1" Content="Add" HorizontalAlignment="Left" Margin="130,160,0,0" VerticalAlignment="Top" Width="150" Height="25" Click="btn1_Click"/>
+        <TextBox x:Name="tbox1" HorizontalAlignment="Left" Height="54" Margin="210,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <Label x:Name="lbl1" Content="Fill the type's name:" HorizontalAlignment="Left" Margin="55,71,0,0" VerticalAlignment="Top" Width="128"/>
+        <Label x:Name="lbl2" Content="New type" HorizontalAlignment="Left" Margin="165,25,0,0" VerticalAlignment="Top" Width="95" FontSize="15"/>
+
+    </Grid>
+</Window>
