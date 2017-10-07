@@ -30,7 +30,7 @@ namespace Hotel_Aqua_System
             string name = "";
             DateTime date;
 
-            if (File.Exists("account.txt"))
+            /*if (File.Exists("account.txt"))
             {
                 System.IO.StreamReader file = new System.IO.StreamReader("account.txt");
                 name = file.ReadLine();
@@ -40,12 +40,12 @@ namespace Hotel_Aqua_System
                     Account a = new Account(name, date);
                 }
                 file.Close();
-            }
+            }*/
             
 
             if (Account.getAccount() == null)
             {
-                btn2.IsEnabled = true;
+                //btn2.IsEnabled = true;
             }
             else
             {
@@ -71,6 +71,11 @@ namespace Hotel_Aqua_System
             CreateAccount newWin = new CreateAccount();
             newWin.Show();
             Close();
+        }
+
+        private void lbox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
         }
     }
 }
