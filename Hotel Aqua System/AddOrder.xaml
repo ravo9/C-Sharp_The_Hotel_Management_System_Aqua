@@ -1,0 +1,36 @@
+﻿<Window x:Class="Hotel_Aqua_System.AddOrder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel_Aqua_System"
+        mc:Ignorable="d"
+        Title="AddOrder" Height="687" Width="544" WindowStartupLocation="CenterScreen" Activated="Window_Activated">
+    <Grid>
+        <Grid>
+            <Label x:Name="lbl1" Content="Add a new order" HorizontalAlignment="Left" Margin="200,40,0,0" VerticalAlignment="Top" Width="195" Height="55" FontSize="16"/>
+            <Button x:Name="btn1" Content="Add" HorizontalAlignment="Left" Margin="170,575,0,0" VerticalAlignment="Top" Width="195" Height="35" Click="btn1_Click"/>
+            <Label x:Name="lbl2" Content="Check-in date" HorizontalAlignment="Left" Margin="120,173,0,0" VerticalAlignment="Top" Width="145"/>
+            <Label x:Name="lbl3" Content="Check-out date" HorizontalAlignment="Left" Margin="120,215,0,0" VerticalAlignment="Top" Width="145"/>
+            <Label x:Name="lbl4" Content="Ordering client" HorizontalAlignment="Left" Margin="120,110,0,0" VerticalAlignment="Top" Width="145"/>
+            <TextBox x:Name="tbox3" HorizontalAlignment="Left" Height="22" Margin="310,295,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="85" TextAlignment="Right" Focusable="False"/>
+            <Label x:Name="lbl5" Content="Available rooms" HorizontalAlignment="Left" Margin="120,256,0,0" VerticalAlignment="Top" Width="145"/>
+            <DatePicker x:Name="dp1" HorizontalAlignment="Left" Margin="310,173,0,0" VerticalAlignment="Top" Width="150" DisplayDate="05/25/2017 22:25:00" SelectedDateChanged="dp1_SelectedDateChanged"/>
+            <Label x:Name="lbl7" Content="Additional informations" HorizontalAlignment="Left" Margin="120,469,0,0" VerticalAlignment="Top" Width="145"/>
+            <DatePicker x:Name="dp2" HorizontalAlignment="Left" Margin="310,215,0,0" VerticalAlignment="Top" Width="150" DisplayDate="05/25/2017 22:25:00" SelectedDateChanged="dp2_SelectedDateChanged"/>
+            <ComboBox x:Name="cbox1" HorizontalAlignment="Left" Margin="310,110,0,0" VerticalAlignment="Top" Width="150"/>
+            <ComboBox x:Name="cbox2" HorizontalAlignment="Left" Margin="310,256,0,0" VerticalAlignment="Top" Width="150" SelectionChanged="cbox2_SelectionChanged"/>
+            <Button x:Name="btn2" Content="Add new" HorizontalAlignment="Left" Margin="375,137,0,0" VerticalAlignment="Top" Width="85" Height="23" Click="btn2_Click"/>
+            <Label x:Name="lbl8" Content="Basic price of this room:" HorizontalAlignment="Left" Margin="120,295,0,0" VerticalAlignment="Top" Width="145"/>
+            <Label x:Name="lbl9" Content="Basic price in total:" HorizontalAlignment="Left" Margin="120,380,0,0" VerticalAlignment="Top" Width="145" RenderTransformOrigin="0.469,-0.192"/>
+            <CheckBox x:Name="cbox3" Content="Set another (total) price:" HorizontalAlignment="Left" Margin="120,425,0,0" VerticalAlignment="Top" Checked="cbox3_Checked" Unchecked="cbox3_Unchecked"/>
+            <TextBox x:Name="tbox4" HorizontalAlignment="Left" Height="22" Margin="310,380,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="85" TextAlignment="Right" RenderTransformOrigin="0.529,-0.455" Focusable="False"/>
+            <TextBox x:Name="tbox5" HorizontalAlignment="Left" Height="22" Margin="310,425,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="85" IsEnabled="False" TextAlignment="Right" Text="0"/>
+            <CheckBox x:Name="cbox4" Content="Discount (%):" HorizontalAlignment="Left" Margin="120,339,0,0" VerticalAlignment="Top" Width="148" Checked="cbox4_Checked" Unchecked="cbox4_Unchecked"/>
+            <TextBox x:Name="tbox6" HorizontalAlignment="Left" Height="22" Margin="310,337,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="85" IsEnabled="False" Text="0%" TextAlignment="Right" LostFocus="tbox6_LostFocus"/>
+            <TextBox x:Name="tbox7" HorizontalAlignment="Left" Height="76" Margin="310,469,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Hotel_Aqua_System.ClientsMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel_Aqua_System"
+        mc:Ignorable="d"
+        Title="ClientsMenu" Height="720" Width="1280" WindowState="Maximized">
+    <Grid>
+        <Button x:Name="btn1" Content="Add a new client" HorizontalAlignment="Left" Margin="845,310,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn1_Click"/>
+        <Button x:Name="btn2" Content="Edit / show clients" HorizontalAlignment="Left" Margin="845,395,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn2_Click"/>
+        <Button x:Name="btn3" Content="Back" HorizontalAlignment="Left" Margin="845,480,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn3_Click"/>
+
+    </Grid>
+</Window>

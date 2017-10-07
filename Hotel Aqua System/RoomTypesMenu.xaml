@@ -1,0 +1,53 @@
+﻿<Window x:Class="Hotel_Aqua_System.RoomTypesMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel_Aqua_System"
+        mc:Ignorable="d"
+        Title="RoomTypesMenu" Height="432" Width="784" Activated="Window_Activated" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="btn1" Content="Add" HorizontalAlignment="Left" Margin="100,65,0,0" VerticalAlignment="Top" Width="180" Height="25" RenderTransformOrigin="0.5,0.5" Click="btn1_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.083"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btn2" Content="Remove selected" HorizontalAlignment="Left" Margin="100,120,0,0" VerticalAlignment="Top" Width="180" Height="25" RenderTransformOrigin="0.5,0.5" Click="btn2_Click" IsEnabled="False">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.083"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btn3" Content="Remove all" HorizontalAlignment="Left" Margin="100,175,0,0" VerticalAlignment="Top" Width="180" Height="25" RenderTransformOrigin="0.5,0.5" Click="btn3_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.083"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btn5" Content="Done" HorizontalAlignment="Left" Margin="300,320,0,0" VerticalAlignment="Top" Width="205" Height="30" RenderTransformOrigin="0.5,0.5" Click="btn5_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.083"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <ListBox x:Name="lbox1" HorizontalAlignment="Left" Height="195" Margin="345,65,0,0" VerticalAlignment="Top" Width="360" SelectionChanged="lbox1_SelectionChanged"/>
+
+    </Grid>
+</Window>
