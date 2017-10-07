@@ -26,12 +26,12 @@ namespace Hotel_Aqua_System
 
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
-            Account a = new Account(name, date);
+            /*Account a = new Account(name, date);
 
             System.IO.StreamWriter file = new System.IO.StreamWriter("account.txt");
             file.WriteLine(tbox1.Text);
             file.WriteLine(DateTime.Now.ToString());
-            file.Close();
+            file.Close();*/
 
             MainWindow newWin = new MainWindow();
             newWin.Show();
