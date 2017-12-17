@@ -72,5 +72,10 @@ namespace Hotel_Aqua_System
                 lbox1.Items.Add((i + 1).ToString() + ".  " + Client.getChosenClient(i).firstNamePub + "  " + Client.getChosenClient(i).surnamePub + "  (" + Client.getChosenClient(i).genderPub + "; individual ID = " + Client.getChosenClient(i).idPub + ")  " + Client.getChosenClient(i).dateBirthPub.ToShortDateString() + "  " + Client.getChosenClient(i).addressPub + "  " + Client.getChosenClient(i).nationalityPub);
             }
         }
+
+        private void Grid_Initialized(object sender, EventArgs e)
+        {
+            MessageBox.Show("This section hasn't been finished yet. Some features may be not active in this moment.", "Section under construction", MessageBoxButton.OK, MessageBoxImage.Warning);
+        }
     }
 }

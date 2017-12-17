@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="AddOrder" Height="687" Width="544" WindowStartupLocation="CenterScreen" Activated="Window_Activated">
     <Grid>
-        <Grid>
+        <Grid Initialized="Grid_Initialized">
             <Label x:Name="lbl1" Content="Add a new order" HorizontalAlignment="Left" Margin="200,40,0,0" VerticalAlignment="Top" Width="195" Height="55" FontSize="16"/>
             <Button x:Name="btn1" Content="Add" HorizontalAlignment="Left" Margin="170,575,0,0" VerticalAlignment="Top" Width="195" Height="35" Click="btn1_Click"/>
             <Label x:Name="lbl2" Content="Check-in date" HorizontalAlignment="Left" Margin="120,173,0,0" VerticalAlignment="Top" Width="145"/>

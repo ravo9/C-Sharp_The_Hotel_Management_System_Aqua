@@ -168,5 +168,10 @@ namespace Hotel_Aqua_System
             tbox5.IsEnabled = false;
             tbox5.Text = "";
         }
+
+        private void Grid_Initialized(object sender, EventArgs e)
+        {
+            MessageBox.Show("This section hasn't been finished yet. Some features may be not active in this moment and some bugs may occur.", "Section under construction", MessageBoxButton.OK, MessageBoxImage.Warning);
+        }
     }
 }

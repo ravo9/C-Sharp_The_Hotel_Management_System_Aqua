@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Hotel_Aqua_System"
         mc:Ignorable="d"
-        Title="Hotel Aqua System" Height="402" Width="729" WindowStartupLocation="CenterScreen">
+        Title="Hotel Aqua System" Height="402" Width="729" WindowStartupLocation="CenterScreen" Initialized="Window_Initialized">
     <Grid>
         <Button x:Name="btn1" Content="Log in" HorizontalAlignment="Left" Margin="415,80,0,0" VerticalAlignment="Top" Width="220" Click="btn1_Click" RenderTransformOrigin="1.533,2" Height="25"/>
         <ListBox x:Name="lbox1" HorizontalAlignment="Left" Height="105" Margin="45,80,0,0" VerticalAlignment="Top" Width="320" FontSize="22" SelectionChanged="lbox1_SelectionChanged"/>

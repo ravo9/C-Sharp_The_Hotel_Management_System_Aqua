@@ -98,7 +98,7 @@ namespace Hotel_Aqua_System
 
             for (int i = 0; i < Room.getRoomAmount(); i++)
             {
-                lbox1.Items.Add((i + 1).ToString() + ".  " + Room.getChosenRoom(i).roomTypePub + "  (number " + Room.getChosenRoom(i).roomNumberPub.ToString() + ",  floor " + Room.getChosenRoom(i).floorNoPub.ToString() + ")  basic price:  " + Room.getChosenRoom(i).basicNightPricePub.ToString() + "$ per night        " + Room.getChosenRoom(i).additionalInfoPub);
+                lbox1.Items.Add((i + 1).ToString() + ".  " + Room.getChosenRoom(i).roomTypePub + "  (number " + Room.getChosenRoom(i).roomNumberPub.ToString() + ",  floor " + Room.getChosenRoom(i).floorNoPub.ToString() + ")  basic price:  $" + Room.getChosenRoom(i).basicNightPricePub.ToString() + " per night        " + Room.getChosenRoom(i).additionalInfoPub);
             }
 
             // "Remove all" button activation.

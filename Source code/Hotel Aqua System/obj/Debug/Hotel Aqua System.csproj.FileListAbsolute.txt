@@ -108,3 +108,48 @@ C:\Users\Rafał\Documents\Hotel Aqua\Hotel-Aqua\Hotel Aqua System\obj\Debug\Room
 C:\Users\Rafał\Documents\Hotel Aqua\Hotel-Aqua\Hotel Aqua System\obj\Debug\Hotel Aqua System.g.resources
 C:\Users\Rafał\Documents\Hotel Aqua\Hotel-Aqua\Hotel Aqua System\obj\Debug\Hotel_Aqua_System.Properties.Resources.resources
 C:\Users\Rafał\Documents\Hotel Aqua\Hotel-Aqua\Hotel Aqua System\obj\Debug\Hotel Aqua System.csproj.GenerateResource.Cache
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\bin\Debug\Hotel Aqua System.exe.config
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\bin\Debug\Hotel Aqua System.exe
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\bin\Debug\Hotel Aqua System.pdb
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.csprojResolveAssemblyReference.cache
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddClient.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddOrder.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddRoom.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddType.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\ClientsMenu.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\CreateAccount.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditClient.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditClientData.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditOrder.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditOrderData.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditRoomData.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\MainMenu.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\MainWindow.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\OrdersMenu.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\RoomMenu.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\RoomTypesMenu.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\App.g.cs
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System_MarkupCompile.cache
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System_MarkupCompile.lref
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddClient.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddOrder.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddRoom.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\AddType.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\ClientsMenu.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\CreateAccount.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditClient.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditClientData.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditOrder.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditOrderData.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\EditRoomData.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\MainMenu.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\MainWindow.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\OrdersMenu.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\RoomMenu.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\RoomTypesMenu.baml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.g.resources
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel_Aqua_System.Properties.Resources.resources
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.csproj.GenerateResource.Cache
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.exe
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.pdb

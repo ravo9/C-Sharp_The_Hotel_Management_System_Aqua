@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\Rafał\Documents\Hotel Aqua\Hotel-Aqua\Hotel Aqua System\obj\Debug\
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\
 Hotel_Aqua_System
 none
 false
 DEBUG;TRACE
-C:\Users\Rafał\Documents\Hotel Aqua\Hotel-Aqua\Hotel Aqua System\App.xaml
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\App.xaml
 16-1212055544
 
-30105336992
+28-407592986
 17-67723260
 AddClient.xaml;AddOrder.xaml;AddRoom.xaml;AddType.xaml;ClientsMenu.xaml;CreateAccount.xaml;EditClient.xaml;EditClientData.xaml;EditOrder.xaml;EditOrderData.xaml;EditRoomData.xaml;MainMenu.xaml;MainWindow.xaml;OrdersMenu.xaml;RoomMenu.xaml;RoomTypesMenu.xaml;
 
