@@ -153,3 +153,6 @@ C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hot
 C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.csproj.CoreCompileInputs.cache
 C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.exe
 C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\obj\Debug\Hotel Aqua System.pdb
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\bin\Debug\Resources\background.png
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\bin\Debug\Resources\background_smaller.png
+C:\Users\Rafał\Documents\Hotel-Aqua\Source code\Hotel Aqua System\bin\Debug\Resources\background_first_menu.png

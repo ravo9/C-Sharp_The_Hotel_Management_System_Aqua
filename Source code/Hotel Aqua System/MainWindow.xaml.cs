@@ -80,7 +80,12 @@ namespace Hotel_Aqua_System
 
         private void Window_Initialized(object sender, EventArgs e)
         {
-            MessageBox.Show("This section (user choice) hasn't been finished yet. Please press 'Log in' to enter the application.", "Section under construction", MessageBoxButton.OK, MessageBoxImage.Warning);
+
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }

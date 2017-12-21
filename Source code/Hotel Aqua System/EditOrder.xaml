@@ -8,6 +8,9 @@
         Title="EditOrder" Height="720" Width="1280" WindowState="Maximized" Activated="Window_Activated">
     <Grid>
         <Grid Initialized="Grid_Initialized">
+            <Grid.Background>
+                <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/background_smaller.png"/>
+            </Grid.Background>
             <Button x:Name="btn1" Content="Add a new order" HorizontalAlignment="Left" Margin="70,50,0,0" VerticalAlignment="Top" Width="205" Height="30" Click="btn1_Click"/>
             <Button x:Name="btn2" Content="Edit selected order" HorizontalAlignment="Left" Margin="70,110,0,0" VerticalAlignment="Top" Width="205" Height="30" Click="btn2_Click" IsEnabled="False"/>
             <ListBox x:Name="lbox1" HorizontalAlignment="Left" Height="460" Margin="340,50,0,0" VerticalAlignment="Top" Width="885" SelectionChanged="lbox1_SelectionChanged"/>

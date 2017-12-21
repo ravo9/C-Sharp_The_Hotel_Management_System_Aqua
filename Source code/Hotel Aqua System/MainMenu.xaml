@@ -8,7 +8,16 @@
         Title="MainMenu" Height="720" Width="1280" WindowStartupLocation="Manual" WindowState="Maximized">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="pack://siteoforigin:,,,/img/background_left.JPG"/>
+            <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/background.png">
+                <ImageBrush.Transform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ImageBrush.Transform>
+            </ImageBrush>
         </Grid.Background>
         <Button x:Name="btn1" Content="Orders" HorizontalAlignment="Left" Margin="845,310,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn1_Click"/>
         <Button x:Name="btn2" Content="Clients" HorizontalAlignment="Left" Margin="845,395,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn2_Click"/>

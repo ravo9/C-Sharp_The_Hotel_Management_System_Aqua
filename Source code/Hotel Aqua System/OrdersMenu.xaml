@@ -8,6 +8,9 @@
         Title="OrdersMenu" Height="720" Width="1280" WindowState="Maximized">
     <Grid>
         <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/background.png"/>
+            </Grid.Background>
             <Button x:Name="btn1" Content="Add a new order" HorizontalAlignment="Left" Margin="845,310,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn1_Click"/>
             <Button x:Name="btn2" Content="Edit / show orders" HorizontalAlignment="Left" Margin="845,395,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn2_Click"/>
             <Button x:Name="btn3" Content="Back" HorizontalAlignment="Left" Margin="845,480,0,0" VerticalAlignment="Top" Width="305" Height="50" Click="btn3_Click"/>

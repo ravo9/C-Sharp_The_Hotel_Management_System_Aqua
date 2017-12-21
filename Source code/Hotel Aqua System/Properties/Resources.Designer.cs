@@ -63,9 +63,29 @@ namespace Hotel_Aqua_System.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap background_left {
+        internal static System.Drawing.Bitmap background {
             get {
-                object obj = ResourceManager.GetObject("background_left", resourceCulture);
+                object obj = ResourceManager.GetObject("background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap background_first_menu {
+            get {
+                object obj = ResourceManager.GetObject("background_first_menu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap background_smaller {
+            get {
+                object obj = ResourceManager.GetObject("background_smaller", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
